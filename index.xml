@@ -21,14 +21,5 @@
 Estelle</description>
     </item>
     
-    <item>
-      <title>Master 1 Thesis, European Option Pricing</title>
-      <link>https://estellerambier.github.io/blog/blog/master-1-thesis-european-option-pricing/</link>
-      <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://estellerambier.github.io/blog/blog/master-1-thesis-european-option-pricing/</guid>
-      <description>My master 1 endend with a thesis. Along with my team mate Inès, we choosed to dig into the European Option Pricing. Model of Cox, Ross and Rubinstein to Black Scholes. Modelisation of portofolio, and modelisation of automatic gestion Estimation of sigma Significance of volatility variation</description>
-    </item>
-    
   </channel>
 </rss>
